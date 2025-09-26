@@ -150,6 +150,10 @@
   <title>Contador de Tiempo</title>
 </head>
 <body>
+  <form class="form register"
+      action="https://formspree.io/f/xldpdare"
+    method="POST"
+    >
 <table border="1">
   <thead>
     <tr>
